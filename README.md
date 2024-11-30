@@ -1,2 +1,7 @@
-# To-learn-Kafka
-Kafka 사용법 익히기
+### How To Learn 
+- 인프런 | "[아파치 카프카 애플리케이션 프로그래밍] 개념부터 컨슈머, 프로듀서, 커넥트, 스트림즈까지!" | 데브원영 DVWY
+- Chat GPT
+***
+### Kafka 개요
+
+
